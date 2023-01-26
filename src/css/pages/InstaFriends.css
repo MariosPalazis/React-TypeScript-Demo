@@ -1,0 +1,21 @@
+.form{
+    margin-top: 10px;
+}
+.form input{
+    padding: 3px 8px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.analyzeButton{
+    background-color: rgb(3, 78, 3);
+    border: 0;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 7px 14px;
+    margin-top: 15px;
+    font-size: 26px;
+}
+.analyzeButton:hover{
+    opacity: 0.8;
+}
